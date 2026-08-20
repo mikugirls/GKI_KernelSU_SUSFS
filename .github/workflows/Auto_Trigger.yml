@@ -101,7 +101,7 @@ jobs:
                 "cancel_susfs": "false",
                 "droidspaces": "678",
                 "droidspaces_ntsync": "true",
-                "enable_nomount": "false",
+                "enable_nomount": "true",
                 "build_a12_5_10": "true",
                 "build_a13_5_15": "true",
                 "build_a14_6_1": "true",
